@@ -22,6 +22,10 @@
 .lugar {
 
     &__imagen {
-        border-radius: 2rem;
+        border-radius: 1rem;
+    }
+
+    &__nombre {
+        font-size: 1.8rem;
     }
 }
